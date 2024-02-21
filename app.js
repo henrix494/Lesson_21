@@ -21,9 +21,6 @@ document.addEventListener("DOMContentLoaded", function () {
         break;
       case "russia":
         capityalCity.textContent = "moscow";
-      default:
-        capityalCity.textContent = "tel aviv";
-        break;
     }
   });
 });
